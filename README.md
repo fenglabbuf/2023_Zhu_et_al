@@ -1,6 +1,7 @@
 # 2023_Zhu_et_al
 #### Scripts for:<br/>
 #### PTBP2 attenuation facillitates fibroblast to neuron conversion by promoting alternative splicing of neuronal genes<br/>
+DOI: 10.1016/j.stemcr.2023.09.012<br/>
 <br/>
 Authors:<br/>
 Binglin Zhu<sup>1,2,3*</sup>, Emily Fisher<sup>2*</sup>, Li Li<sup>2*</sup>, Ping Zhong<sup>2</sup>, Zhen Yan<sup>1,2</sup>, Jian Feng<sup>1,2#</sup><br/>
